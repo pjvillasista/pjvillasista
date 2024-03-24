@@ -1,5 +1,7 @@
 # 💫 About Me:
-<br>A Data Analyst driven by a passion for storytelling through data to fuel business growth, I’m a firm believer in learning by doing, constantly creating engaging projects.<br>🚀 What I'm Up To:<br>urrently delving into Data Engineering best practices and Agile Data Warehouse Design, alongside mastering the MERN stack to develop SaaS products.
+<br>A Data Analyst driven by a passion for storytelling through data to fuel business growth, I’m a firm believer in learning by doing, constantly creating engaging projects.
+
+<br>🚀 What I'm Up To:<br>Currently delving into Data Engineering best practices and Agile Data Warehouse Design, alongside mastering the MERN stack to develop SaaS products.
 
 
 ## 🌐 Socials:
